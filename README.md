@@ -1,8 +1,10 @@
 # python_firebase
 
-**require interpreter**
-- python-firebase ver 1.2
+- require interpreter
 
+python-firebase ver 1.2
+
+- CODE
 ```
 #Firebase console 계정 write
 firebase_url = 'Your firebase realtime DB url'
